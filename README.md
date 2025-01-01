@@ -9,7 +9,7 @@ The company provides me a dataset of several customer feedback and a label wheth
 - Predict if a customer is happy or not based on the answers they give to questions asked. The company is aiming for 73% accuracy score or above
 - Find which questions/features are more important when predicting a customer’s happiness
 
-### Data Description
+## Data Set
 
 * Y = target attribute (Y) with values indicating 0 (unhappy) and 1 (happy) customers 
 * X1 = my order was delivered on time
