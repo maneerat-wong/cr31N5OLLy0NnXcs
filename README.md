@@ -1,8 +1,8 @@
-# Customer Satisfication Prediction using Machine Learning
+# Customer Satisfaction Prediction using Machine Learning
 
-The company is one of the fastest growing startups in the logistics and delivery domain and works with several partners and make on-demand delivery to our customers. The company wants to to measure how happy each customer is in order to grow with the right global expansion strategy.
+The company is one of the fastest growing startups in the logistics and delivery domain and works with several partners and make on-demand delivery to our customers. The company wants to measure how happy each customer is in order to grow with the right global expansion strategy.
 
-The company provides me a dataset of several customer feedback and a label whether the customer is happy.
+The company provided me a dataset of several customer feedback and a label on whether the customer is happy.
 
 ## Goal
 
@@ -36,7 +36,7 @@ Attributes X1 to X6 indicate the responses for each question and have values fro
 
 
 
-The SVC model performed the best with a test accuracy of 73% and an F1 score of 74%, which is slightly higher due to the class imbalance in the dataset. SVC tends to handle small datasets better than more complex models like XGBoost, which typically performs well on larger datasets. Given the small size of the dataset, SVC's simpler model structure allows it to generalize better and avoid overfitting compared to more complex models that might require more data to fully capture patterns.
+The SVC model performed the best with a test accuracy of 73% and an F1 score of 74%, slightly higher due to the class imbalance in the dataset. SVC tends to handle small datasets better than more complex models like XGBoost, which typically performs well on larger datasets. Given the small size of the dataset, SVC's simpler model structure allows it to generalize better and avoid overfitting compared to more complex models that might require more data to fully capture patterns.
 
 ### <u> Feature Selection </u>
 
